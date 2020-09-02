@@ -4,17 +4,23 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
+import java.util.ResourceBundle;
 
 public class ConnectDb {
 
+    private ResourceBundle dbProperties = ResourceBundle.getBundle("database");
+
     public static void main(String[] args) {
+        ConnectDb connectDb = new ConnectDb();
+        ResourceBundle dbProperties = connectDb.getDbProperties();
+
         try {
-            Class.forName("org.postgresql.Driver");
+            Class.forName(dbProperties.getString("db.driver"));
 
             Connection connection = DriverManager.getConnection(
-                    "jdbc:postgresql://localhost:5432/hibernate_test",
-                    "user",
-                    "userpassword"
+                    dbProperties.getString("db.url"),
+                    dbProperties.getString("db.username"),
+                    dbProperties.getString("db.password")
             );
 
             Statement statement = connection.createStatement();
@@ -29,5 +35,9 @@ public class ConnectDb {
         } catch (Exception e) {
             e.printStackTrace();
         }
+    }
+
+    public ResourceBundle getDbProperties() {
+        return dbProperties;
     }
 }
