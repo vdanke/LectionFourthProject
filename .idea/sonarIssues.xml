@@ -28,6 +28,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/enums/ExampleEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/enums/Role.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/example/Chilling.java">
           <value>
             <set />
@@ -69,6 +79,61 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/example/secondteam/NewChilling.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/executors/MultiThreadinExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/executors/MultiThreadingCallableExecutorsExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/executors/MultiThreadingExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/executors/MultiThreadingRunnableExecutorsExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/generics/CrudRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/generics/Mark.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/generics/Role.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/generics/SourceClassRuntime.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/generics/SourceClassRuntimeGenericsExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/generics/impl/Mark.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/generics/impl/PersonCrudRepository.java">
           <value>
             <set />
           </value>
@@ -149,6 +214,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/stream/api/lambda/VisibleVariablesLambdaExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/stream/api/optional/IntStreamExample.java">
           <value>
             <set />
           </value>
