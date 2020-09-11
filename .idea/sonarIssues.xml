@@ -38,6 +38,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/concurrent/AtomicExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/concurrent/CollectionsExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/org/step/lection/fourth/project/enums/ExampleEnum.java">
           <value>
             <set />
